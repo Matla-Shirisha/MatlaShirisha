@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Data Analysis and Statistics**
 
-- 📫 How to reach me **Matla.Shirisha @outlook.com**
+- 📫 How to reach me **Matla.Shirisha@outlook.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/matla-shirisha-586a84230/
 <h3 align="left">Connect with me:</h3>
