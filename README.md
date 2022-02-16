@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Machine Learning algorithmic coding**
 
-- 👨‍💻 All of my projects are available at [Matla.Shirisha@outlook.com](Matla.Shirisha@outlook.com)
+- 👨‍💻 All of my projects are available at https://github.com/Matla-Shirisha
 
 - 💬 Ask me about **Python, Data Analysis and Statistics**
 
-- 📫 How to reach me https://github.com/Matla-Shirisha
+- 📫 How to reach me Matla.Shirisha@outlook.com
 
 - 📄 Know about my experiences https://www.linkedin.com/in/matla-shirisha-586a84230/
 
